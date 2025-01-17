@@ -1,0 +1,7 @@
+hidden = [".config"]
+run = "npm run start"
+entryPoint = "src/index.js"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
